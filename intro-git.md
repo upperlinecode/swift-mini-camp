@@ -12,6 +12,6 @@ In order to take this code and put it on your computer, you can *clone* the repo
 2. Type "ls" and hit enter. This shows all of the files and folders in your home directory. It should look something like this:
 3. Go to the repository for today's material on [github](https://github.com/upperlinecode/swift-mini-camp). Click this clipboard to copy the link you'll need to clone this repository onto your computer.
 4. In the terminal, enter 
-```unix
+```
 git clone https://github.com/upperlinecode/swift-mini-camp.git
 ```
