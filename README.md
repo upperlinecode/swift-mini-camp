@@ -37,3 +37,4 @@ Afternoon                   |   12:30 - 1:30       | [conditionals walkthrough](
 - understand what a code comment is and how to write them
 - execute mathmatical operations in swift: +, -, *, /, %, also boolean operators
 
+# swift-mini-camp
