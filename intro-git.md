@@ -8,17 +8,17 @@ All of the materials that we're going to use today are stored in Upperlinecode's
 
 In order to take this code and put it on your computer, you can *clone* the repository in your terminal.
 
-1. Open your terminal application
-2. Type "ls" and hit enter. This shows all of the files and folders in your home directory. It should look something like this:
-3. Go to the repository for today's material on [github](https://github.com/upperlinecode/swift-mini-camp). Click this clipboard to copy the link you'll need to clone this repository onto your computer.
-4. In the terminal, enter 
+1) Open your terminal application
+2) Type "ls" and hit enter. This shows all of the files and folders in your home directory. It should look something like this:
+3) Go to the repository for today's material on [github](https://github.com/upperlinecode/swift-mini-camp). Click this clipboard to copy the link you'll need to clone this repository onto your computer.
+4) In the terminal, enter 
 ```
 git clone https://github.com/upperlinecode/swift-mini-camp.git
 ```
 This is what the output should look like after you hit enter:
-5. Use the ls command again to view the contents of your home directory. You should now see the folder "swift-mini-camp" listed.
-6. Type in the change directory command (cd) followed by the name of the folder to enter into the swift-mini-camp folder
+5) Use the ls command again to view the contents of your home directory. You should now see the folder "swift-mini-camp" listed.
+6) Type in the change directory command (cd) followed by the name of the folder to enter into the swift-mini-camp folder
 ```
 cd swift-mini-camp/
 ```
-7. Use the ls command to see the contents of the swift-mini-camp directory. The files and folders should be the same as the ones that you saw on the remote Github page.
+7) Use the ls command to see the contents of the swift-mini-camp directory. The files and folders should be the same as the ones that you saw on the remote Github page.
