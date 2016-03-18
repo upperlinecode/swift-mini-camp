@@ -1,4 +1,5 @@
-#[Intro to Swift](https://github.com/upperlinecode/intro-to-swift)
+#Swift Mini Camp
+<br>
 ## Day One Schedule
  	|	Time        		| Activity       |
    -------------|-------------       |:-------------:|
