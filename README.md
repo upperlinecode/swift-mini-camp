@@ -6,12 +6,10 @@
 		            |   9:30 - 9:45    	   | Introduction to git	     
  		            |   9:45 - 10:00  	   | XCode Walkthrough
  		            |   10:00 - 10:45	   | Constants, Variables, and Data Types <br> [calculator mini-lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-calculator.md) <br> [calculator mini-lab playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLab.playground)
-	                    |  	10:45 - 11:30	   | Strings Walkthrough <br> [strings practice](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/strings-practice.md)
+	                    |  	10:45 - 11:30	   | Strings <br> [strings practice](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/strings-practice.md)
 Lunch 		            |   11:30 - 12:30      |
-Afternoon                   |   12:30 - 1:30       | [conditionals walkthrough](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/conditionals-intro.md)<br>[conditionals-practice-1](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice1.playground)<br>[conditionals-practice-2](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice2.playground)
-		            |   1:30 - 2:45        | Work on Labs
-		            |                      | [calculator - level 2 - directions](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/calculator-level-2.md)<br>[calculator - level 2 - playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLevelTwo.playground)
-		            |                      | [cash register - directions](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-cash-register.md)<br>[cash register - playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CashRegister.playground)
+Afternoon                   |   12:30 - 1:30       | Conditionals <br> [conditionals-practice-1](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice1.playground)<br> [conditionals-practice-2](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice2.playground)
+		            |   1:30 - 2:15        | [cash register - directions](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-cash-register.md)<br>[cash register - playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CashRegister.playground)
 		            |                      | [about page lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/about-page-lab.md)<br>[about page project](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/AboutPage)
 		            |   2:45 - 3:00        | Debrief
 
