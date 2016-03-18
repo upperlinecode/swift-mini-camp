@@ -2,11 +2,11 @@
 ## Day One Schedule
  	|	Time        		| Activity       |
    -------------|-------------       |:-------------:|
-    Morning	            |   9:00 - 9:30        | [Day One Slides](https://docs.google.com/presentation/d/1jygKz5cmy_Qz4bxvpK3Pyl6RKmh8PrqFyDLCFrE_AW0/edit?usp=sharing)
-		            |   9:30 - 9:45    	   | Improv, something with names (e.g. name/rhyme/motion)	     
- 		            |   9:45 - 10:00  	   | [XCode walkthrough](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/xcode-setup.md)
- 		            |   10:00 - 10:45	   | [constants, variables, and data types](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/intro-constants-variables.md)<br>[calculator mini-lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-calculator.md)<br>[calculator mini-lab playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLab.playground)
-	                    |  	10:45 - 11:30	   | [strings walkthrough](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/intro-string-methods.md)<br>[strings practice](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/strings-practice.md)
+    Morning	            |   9:00 - 9:30        | iPhone App Wireframing
+		            |   9:30 - 9:45    	   | Introduction to git	     
+ 		            |   9:45 - 10:00  	   | XCode Walkthrough
+ 		            |   10:00 - 10:45	   | Constants, Variables, and Data Types <br> [calculator mini-lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-calculator.md) <br> [calculator mini-lab playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLab.playground)
+	                    |  	10:45 - 11:30	   | Strings Walkthrough <br> [strings practice](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/strings-practice.md)
 Lunch 		            |   11:30 - 12:30      |
 Afternoon                   |   12:30 - 1:30       | [conditionals walkthrough](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/conditionals-intro.md)<br>[conditionals-practice-1](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice1.playground)<br>[conditionals-practice-2](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice2.playground)
 		            |   1:30 - 2:45        | Work on Labs
