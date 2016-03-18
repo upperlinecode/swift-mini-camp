@@ -10,5 +10,5 @@
 Lunch 		            |   11:30 - 12:30      |
 Afternoon                   |   12:30 - 1:30       | Conditionals <br> [conditionals-practice-1](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice1.playground)<br> [conditionals-practice-2](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/ConditionalsPractice2.playground)
 		            |   1:30 - 2:15        | Conditionals Lab <br> [cash register - directions](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-cash-register.md)<br>[cash register - playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CashRegister.playground)
-		            |                      | Front End in Xcode [about page lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/about-page-lab.md) <br> [about page project](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/AboutPage)
+		            |                      | Front End in Xcode <br> [about page lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/about-page-lab.md) <br> [about page project](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/AboutPage)
 		            |   2:45 - 3:00        | Debrief
