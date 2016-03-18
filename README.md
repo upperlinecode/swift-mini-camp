@@ -13,4 +13,3 @@ Afternoon             |   12:30 - 1:30       | Conditionals <br> [conditionals-p
 		            |   2:00 - 3:00        | Front End in Xcode <br> [about page lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/about-page-lab.md) <br> [about page project](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/AboutPage)
 		            |   3:00 - 4:50        | Trivia App <br> student facing lab description
 		            |   4:50 - 5:00        | Debrief
->>>>>>> 9ffbcef32226a4763a8c9164993377d9be3d98d7
