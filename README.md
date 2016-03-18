@@ -1,5 +1,4 @@
 #Swift Mini Camp
-<br>
 ## Day One Schedule
  	|	Time        		| Activity       |
    -------------|-------------       |:-------------:|
