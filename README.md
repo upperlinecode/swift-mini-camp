@@ -1,9 +1,9 @@
-#[Intro to Swift](https://github.com/upperlinecode/intro-to-swift)
+#Swift Mini Camp
 ## Day One Schedule
  	|	Time        		| Activity       |
    -------------|-------------       |:-------------:|
     Morning	            |   9:00 - 9:30        | iPhone App Wireframing
-		            |   9:30 - 9:45    	   | Introduction to git	     
+		            |   9:30 - 9:45    	   | [Introduction to git and Github](https://github.com/upperlinecode/swift-mini-camp/blob/master/intro-git.md)	     
  		            |   9:45 - 10:00  	   | XCode Walkthrough
  		            |   10:00 - 10:45	   | Constants, Variables, and Data Types <br> [calculator mini-lab](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/lab-calculator.md) <br> [calculator mini-lab playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLab.playground)
 	                    |  	10:45 - 11:30	   | Strings <br> [strings practice](https://github.com/upperlinecode/intro-to-swift/blob/master/day-1/strings-practice.md)
