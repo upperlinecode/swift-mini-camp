@@ -10,12 +10,12 @@ In order to take this code and put it on your computer, you can *clone* the repo
 
 1) Open your terminal application <br>
 <p align="center">
-  <img src="https://github.com/upperlinecode/swift-mini-camp/blob/master/images/terminal-application.png" height="400px" hspace="20">
+  <img src="https://github.com/upperlinecode/swift-mini-camp/blob/master/images/terminal-application.png" height="100px" hspace="20">
 </p>
 2) Type "ls" and hit enter. This shows all of the files and folders in your home directory. <br>
 3) Go to the repository for today's material on [github](https://github.com/upperlinecode/swift-mini-camp). Click this clipboard to copy the link you'll need to clone this repository onto your computer. <br>
 <p align="center">
-  <img src="https://github.com/upperlinecode/swift-mini-camp/blob/master/images/github-clone.png" height="400px" hspace="20">
+  <img src="https://github.com/upperlinecode/swift-mini-camp/blob/master/images/github-clone.png" height="100px" hspace="20">
 </p>
 4) In the terminal, enter <br>
 ```
